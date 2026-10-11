@@ -1,6 +1,3 @@
-// Plant Vital Monitoring with Industrial Sensors — TU Chemnitz team project
-// Transcribed from the project report, Annex 9.1 (pages 28–31 of PDF).
-// Formatting and PDF-wrapped comments cleaned; hardware compilation not verified.
 #include <SPI.h>
 #include <SdFat.h>
 #include <Wire.h>
